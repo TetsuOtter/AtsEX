@@ -71,6 +71,8 @@
     <Compile Include="VersionSelector.AsInputDevice.cs" />
     <Compile Include="VersionSelector.AsAtsPlugin.cs" />
     <Compile Include="VersionSelector.cs" />
+    <Compile Include="AlternateDataStreamUtil\AlternateDataStream.cs" />
+    <Compile Include="AlternateDataStreamUtil\NativeFunctions.cs" />
     <Compile Include="Hosting\TargetBveFinder.cs" />
     <Compile Include="Hosting\AtsExRepositoryHost.cs" />
     <Compile Include="Hosting\ReleaseInfo.cs" />
